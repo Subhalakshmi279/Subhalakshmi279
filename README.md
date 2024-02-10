@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Subhalakshmi</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=subhalakshmi279&label=Profile%20views&color=0e75b6&style=flat" alt="subhalakshmi279" /> </p>
+
 - 🔭 I’m currently working on **Reactjs - Educational App**
 
 - 🌱 I’m currently learning **ReactJs, UI/UX**
@@ -9,7 +11,7 @@
 
 - 📫 How to reach me **subhalakshmi279@gmail.com**
 
-- ⚡ Fun fact **I'm a design enthusiast who finds pure joy in crafting visually captivating creations.**
+- ⚡ Fun fact **I find joy in unleashing my creativity through design. Whether it's crafting visually stunning graphics or conceptualizing innovative layouts, my passion lies in the art of creating designs that captivate and inspire.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,5 +29,3 @@
 <p><a href="https://www.buymeacoffee.com/Subhalakshmi S"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Subhalakshmi S" /></a></p><br><br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=subhalakshmi279&show_icons=true&locale=en&layout=compact" alt="subhalakshmi279" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subhalakshmi279&" alt="subhalakshmi279" /></p>
